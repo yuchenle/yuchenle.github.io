@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Part of my past"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in HPC, Computer Science, Polytechnical University of Catalunya (UPC), 2024 (expected)
+* M.S. in HPC and Cryptography, Sorbonne University, 2018
+* B.S. in Computer Science, Sorbonne University (previously UPMC, Université Pierre et Marie Curie), 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Spring 2019 - Present: Ph.D. in HPC
+  * Enhancement of OpenMP compiler and runtime.
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 

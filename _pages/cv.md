@@ -18,28 +18,25 @@ Education
 Work experience
 ======
 * Spring 2019 - Present: Ph.D. in HPC
-  * Enhancement of OpenMP compiler and runtime.
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * UPC & BSC
+  * Enhancement of OpenMP compiler and runtime. I mainly optimize the runtime library for OpenMP in LLVM. I also need to play with the LLVM compiler to do it. I also have some experience with OpenMP's implementation in GCC, but limited to the runtime system.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June - Nov. 2023 : Intern
+  * Collins Aerospace, Cork, Ireland
+  * Assessing OpenMP on Critical Real-Time Embedded Systems: allow a task to run either on the CPU or on the GPU dynamically, according to the system's needs on the Jetson Orin NX SoC.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Feb. 2019 - March 2020: Engineering
+  * UPC & BSC
+  * Configuration of an Adaptive Optics application featuring CUD (Performance bottleneck analysis, migration of the application from Intel X86 onto IBM Power9)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++ programming language
+* Parallel programming:
+  * Use OpenMP to parallelize legacy sequential HPC code. Use of profiler to pinpoint the bottleneck to further optimize.
+  * Improve the OpenMP compiler and runtime to make the library more efficient.
+  * GPU programming (mainly CUDA).
+* Other Software skills, including but not limited to: scripting, git, debug, etc.
 
 Publications
 ======
@@ -52,13 +49,7 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+<!-- Service and leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

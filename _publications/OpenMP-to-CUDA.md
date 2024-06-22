@@ -1,9 +1,9 @@
 ---
 title: "OpenMP to CUDA graphs: a compiler-based transformation to enhance the programmability of NVIDIA devices"
 collection: publications
-permalink: OpenMP-to-CUDA
+permalink: /publication/OpenMP-to-CUDA
 excerpt: 'This paper presents a novel compiler transformation technique that automatically transforms OpenMP code into CUDA graphs, combining the benefits of programmability of a high-level programming model such as OpenMP, with the performance benefits of a low-level programming model such as CUDA.'
-date: 2020-05
+date: 2020-05-01
 venue: ' SCOPES '20: 23rd International Workshop on Software and Compilers for Embedded Systems'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://dl.acm.org/doi/10.1145/3378678.3391881'

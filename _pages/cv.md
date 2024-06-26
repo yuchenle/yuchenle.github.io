@@ -46,7 +46,7 @@ Publications
 
 Languages
 -----
-- A native Chinese speaker who can work with French and English (so called Full Working Proficiency on Linkedin). I also speak Spanish (B1 level).
+- A native Chinese speaker who can work with French and English (so called Full Professional Proficiency on Linkedin). I also speak Spanish (B1 level).
 
 <!-- Service and leadership
 ======

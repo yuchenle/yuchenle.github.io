@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Chenle Yu, PhD candidate in HPC, expected graduation in 2024."
+title: "Chenle Yu, PhD in HPC."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hey! I am now a PhD student at Barcelona Supercomputing Center and Universitat Politècnica de Catalunya. I came to BSC in 2019, since then, I have been advised by Dr.[Sara Royuela](https://orcid.org/0000-0002-7644-0868) and Dr. [Eduardo Quiñones](https://orcid.org/0000-0002-5465-964X).
+Hey there! I am a PhD in High Performance Computing, graduated from UPC (Universitat Politècnica de Catalunya) and BSC (Barcelona Supercomputing Center). I came to BSC in 2019, since then, I have been advised by Dr.[Sara Royuela](https://orcid.org/0000-0002-7644-0868) and Dr. [Eduardo Quiñones](https://orcid.org/0000-0002-5465-964X).
 
 My research interests lie in High Performance Computing. More specifically, I am interested in parallelizing applications with [OpenMP](https://www.openmp.org/) and [CUDA](https://developer.nvidia.com/cuda-toolkit). Basically, I try to make scientific, or not, applications running faster with OpenMP directives, by modifying its underlying compiler and runtime (mainly LLVM), or by offloading them onto GPUs.
 

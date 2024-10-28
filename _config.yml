@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chenle Yu / PhD candidate"
+title                    : "Chenle Yu"
 title_separator          : "-"
 name                     : &name "Chenle Yu"
 description              : &description "Someone ordinary guy who thinks and does"
@@ -24,7 +24,7 @@ author:
   avatar           : "currency.jpeg"
   name             : "Chenle Yu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate in High Performance Computing at UPC & BSC. Optimizing OpenMP compiler and runtime for HPC applications, to make them running faster with GPUs. Like to take photos."
+  bio              : "PhD in High Performance Computing at UPC & BSC. Optimizing OpenMP compiler and runtime for HPC applications, to make them running faster with GPUs. Like to take photos."
   location         : "Barcelona, Spain"
   employer         : "UPC & BSC"
   uri              : #https://www.researchgate.net/profile/Chenle-Yu

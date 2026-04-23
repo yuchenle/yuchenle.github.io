@@ -17,7 +17,13 @@ Education
 
 Work experience
 ------
-* Spring 2019 - Present: Ph.D. in HPC
+
+* Feb 2025 - Now: Software Engineer in Optical Simulation, ODE of Keysight Technologies.
+  * Do physically accurate optical simulation to obtain photorealistic images.
+  * Try to optimize the process using GPU (CUDA) and multi-processing.
+  * Overall very interesting stuff
+
+* Spring 2019 - Autumn 2024: Ph.D. in HPC
   * UPC & BSC
   * Enhancement of OpenMP compiler and runtime. I mainly optimize the runtime library for OpenMP in LLVM. I also need to play with the LLVM compiler to do it. I also have some experience with OpenMP's implementation in GCC, but limited to the runtime system.
 
